@@ -1,0 +1,46 @@
+// properties.json
+[
+  {
+    "id": "prop1",
+    "lat": 18.6300,
+    "lng": 73.8100,
+    "address": "Sai Shraddha Society, Wakad, Pimpri-Chinchwad",
+    "price": "₹ 75 Lac",
+    "area": "1100 sq.ft.",
+    "type": "Residential",
+    "bedrooms": 2,
+    "description": "Spacious 2BHK flat with excellent amenities."
+  },
+  {
+    "id": "prop2",
+    "lat": 18.6400,
+    "lng": 73.8050,
+    "address": "IT Park Road, Hinjewadi Phase 1, Pimpri-Chinchwad",
+    "price": "₹ 1.2 Crore",
+    "area": "1500 sq.ft.",
+    "type": "Residential",
+    "bedrooms": 3,
+    "description": "Luxury 3BHK near major IT companies."
+  },
+  {
+    "id": "prop3",
+    "lat": 18.5700,
+    "lng": 73.8000,
+    "address": "Bhumkar Chowk, Wakad, Pimpri-Chinchwad",
+    "price": "₹ 4.5 Crore",
+    "area": "5000 sq.ft.",
+    "type": "Commercial",
+    "description": "Prime commercial space for office or retail."
+  },
+  {
+    "id": "prop4",
+    "lat": 18.6200,
+    "lng": 73.8700,
+    "address": "Nigdi Pradhikaran, Pimpri-Chinchwad",
+    "price": "₹ 60 Lac",
+    "area": "950 sq.ft.",
+    "type": "Residential",
+    "bedrooms": 2,
+    "description": "Affordable 2BHK in a well-established locality."
+  }
+]
